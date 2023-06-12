@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="block">#555b6e</color>
+    <color name="text">#735d78</color>
+    <color name="clear">#ee4266</color>
+    <color name="primary">#bee3db</color>
+    <color name="buttons">#555b6e</color>
+<!--   bee3db block
+button faf0ca
+-->
+</resources>
